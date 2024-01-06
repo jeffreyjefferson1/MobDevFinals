@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917348193158",
+    "project_id": "todd-app-c975c",
+    "storage_bucket": "todd-app-c975c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917348193158:android:e2491dda59635a55c95207",
+        "android_client_info": {
+          "package_name": "com.example.todd_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917348193158-g8tilj276t7pc57ieu4ft2rtsti18n2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIqChK3t_nU4bs9TSZ3BFF6dHCmrcydsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917348193158-g8tilj276t7pc57ieu4ft2rtsti18n2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
